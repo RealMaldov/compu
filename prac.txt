@@ -1,0 +1,12 @@
+cd change directory 
+md make directory 
+color 
+cls 
+cdms 
+dir
+echo mensaje de sistema  
+direcccion
+*todo
+tabulador autocompletar
+windows +r cmd sistema decomandos 
+c:/users ruta de carpeta 
